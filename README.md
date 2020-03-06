@@ -13,8 +13,11 @@ https://github.com/Malthorn1/Flow2Week2Wednesday
 
 
 <h2> Torsdags d. 5/03-2020  </h2>
-Torsdagsopgaven ligger her:  <br> 
+BackendTorsdagsopgaven ligger her:  <br> 
 https://github.com/Malthorn1/CORSWithJavaAndJax-rs
+
+FrontEnd Torsdagsopgaven ligger her:  <br> 
+https://github.com/Malthorn1/CORSWithJavaAndJax-rsSPA
 
 Opgaven ligger deployet her:  <br>
 https://coffeeaddict.dk/CORSWithJavaAndJax-rs/api/person/all <br>

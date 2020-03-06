@@ -16,9 +16,9 @@ https://github.com/Malthorn1/Flow2Week2Wednesday
 Torsdagsopgaven ligger her:  <br> 
 https://github.com/Malthorn1/CORSWithJavaAndJax-rs
 
-Opgaven ligger deployet her: 
-https://coffeeaddict.dk/CORSWithJavaAndJax-rs/api/person/all
-Med surge her: 
+Opgaven ligger deployet her:  <br>
+https://coffeeaddict.dk/CORSWithJavaAndJax-rs/api/person/all <br>
+Med surge her:  <br>
 http://coffeeaddict.surge.sh/
 
 <h2> Fredag d. 6/03-2020  </h2>

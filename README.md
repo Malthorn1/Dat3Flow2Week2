@@ -26,5 +26,5 @@ http://coffeeaddict.surge.sh/
 
 <h2> Fredag d. 6/03-2020  </h2>
 https://github.com/Malthorn1/Flow2Week2FredagsOpgaveSPA <br> 
-coffeeforeu.surge.sh
+http://coffeeforeu.surge.sh
 

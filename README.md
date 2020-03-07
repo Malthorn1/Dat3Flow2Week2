@@ -25,3 +25,6 @@ Med surge her:  <br>
 http://coffeeaddict.surge.sh/
 
 <h2> Fredag d. 6/03-2020  </h2>
+https://github.com/Malthorn1/Flow2Week2FredagsOpgaveSPA
+coffeeforeu.surge.sh
+
